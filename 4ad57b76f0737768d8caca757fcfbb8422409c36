@@ -1,0 +1,1 @@
+{"jobID":"cf9b8819-35bb-6689-01fc-21ffefaa2694","spec":{"type":"policy","cause":{"Message":"","User":"ilya \u003cilya@weave.works\u003e"},"spec":{"default:deployment/mysql":{"add":{"automated":"true"},"remove":null}}},"result":null}
