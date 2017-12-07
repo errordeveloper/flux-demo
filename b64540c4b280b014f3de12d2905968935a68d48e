@@ -1,0 +1,1 @@
+{"jobID":"d8e89cc9-c889-b24b-c8af-92d7c9d213e3","spec":{"type":"policy","cause":{"Message":"","User":"ilya \u003cilya@weave.works\u003e"},"spec":{"default:deployment/mysql":{"add":{"tag.db":"glob:5.*"},"remove":null}}},"result":null}
